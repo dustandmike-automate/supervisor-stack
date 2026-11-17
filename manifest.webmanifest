@@ -1,6 +1,6 @@
 {
- "name": "Supervisor Stack",
- "short_name": "Stack",
+ "name": "Managing Dominions",
+ "short_name": "Dominions",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
